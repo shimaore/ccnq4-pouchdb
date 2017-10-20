@@ -1,0 +1,20 @@
+{
+  "name": "ccnq4-pouchdb",
+  "version": "1.0.0",
+  "description": "PouchDB combination for CCNQ4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Stéphane Alnet <stephane@shimaore.net> (https://stephane.shimaore.net/)",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "github.com/shimaore/ccnq4-pouchdb"
+  },
+  "dependencies": {
+    "pouchdb-adapter-http": "^6.3.4",
+    "pouchdb-mapreduce": "^6.3.4",
+    "shimaore-pouchdb-core": "^6.3.4"
+  }
+}
