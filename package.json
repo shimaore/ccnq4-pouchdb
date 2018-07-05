@@ -13,8 +13,8 @@
     "url": "github.com/shimaore/ccnq4-pouchdb"
   },
   "dependencies": {
-    "pouchdb-adapter-http": "^6.3.4",
-    "pouchdb-mapreduce": "^6.3.4",
-    "shimaore-pouchdb-core": "^6.3.4"
+    "pouchdb-adapter-http": "^7.0.0",
+    "pouchdb-mapreduce": "^7.0.0",
+    "shimaore-pouchdb-core": "^7.0.0"
   }
 }
