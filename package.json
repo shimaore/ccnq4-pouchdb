@@ -17,6 +17,7 @@
     "pouchdb-changes-filter": "^7.0.0",
     "pouchdb-fetch": "^7.0.0",
     "pouchdb-mapreduce": "^7.0.0",
+    "pouchdb-merge": "^7.0.0",
     "pouchdb-utils": "^7.0.0",
     "shimaore-pouchdb-core": "^7.0.0"
   }
